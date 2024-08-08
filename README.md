@@ -1,4 +1,5 @@
 Personal Blog
+
 Welcome to my personal blog, a modern and responsive platform where I share my thoughts, experiences, and creative projects. Built using the latest web technologies, this blog offers a sleek and intuitive user experience.
 
 Key Features:
